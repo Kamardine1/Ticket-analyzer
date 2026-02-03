@@ -1,0 +1,7 @@
+Etape 1 : Dans le sujet c'est marqué "en dehors du nombre de places" donc on a retiré le nombre de places.
+
+Etape 2 : Pour la representation des places on a mis la lettre P suivi d'un nombre qui possede au maximum 3 chiffres en supposant
+que nous avons un maximum de 999 places dans un concert.
+La lettre P pour representer une place, et le nombre qui suit pour designer l'identifiant de la place.
+Les places sont sépares par une espace chacune.
+Les places d'un ticket de concert sont toutes sur la meme ligne avec le concert auquel ils appartiennent.
